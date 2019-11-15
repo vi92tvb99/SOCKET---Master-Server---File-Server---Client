@@ -1,0 +1,7 @@
+﻿  function.cpp
+E:\HOC TAP\NAM 3\MANG MAY TINH NANG CAO\Client_00\Client_00\function.cpp(5,1): warning C4005: 'BUFLEN': macro redefinition
+E:\HOC TAP\NAM 3\MANG MAY TINH NANG CAO\Client_00\Client_00\function.cpp(3): message : see previous definition of 'BUFLEN'
+E:\HOC TAP\NAM 3\MANG MAY TINH NANG CAO\Client_00\Client_00\function.cpp(453,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\HOC TAP\NAM 3\MANG MAY TINH NANG CAO\Client_00\Client_00\function.cpp(486,99): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\HOC TAP\NAM 3\MANG MAY TINH NANG CAO\Client_00\Client_00\function.cpp(520,95): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Client_00.vcxproj -> E:\HOC TAP\NAM 3\MANG MAY TINH NANG CAO\Client_00\x64\Debug\Client_00.exe

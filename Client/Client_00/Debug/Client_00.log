@@ -1,0 +1,10 @@
+﻿  function.cpp
+C:\Users\Admin\Documents\Core store\DoAn--MasterServer_FileServer_Client\Client_00\Client_00\function.cpp(5,1): warning C4005: 'BUFLEN': macro redefinition
+C:\Users\Admin\Documents\Core store\DoAn--MasterServer_FileServer_Client\Client_00\Client_00\function.cpp(3): message : see previous definition of 'BUFLEN'
+C:\Users\Admin\Documents\Core store\DoAn--MasterServer_FileServer_Client\Client_00\Client_00\function.cpp(43,1): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winsock2.h(1831): message : see declaration of 'inet_addr'
+C:\Users\Admin\Documents\Core store\DoAn--MasterServer_FileServer_Client\Client_00\Client_00\function.cpp(246,1): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winsock2.h(1831): message : see declaration of 'inet_addr'
+C:\Users\Admin\Documents\Core store\DoAn--MasterServer_FileServer_Client\Client_00\Client_00\function.cpp(460,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Documents\Core store\DoAn--MasterServer_FileServer_Client\Client_00\Client_00\function.cpp(499,20): warning C4018: '<': signed/unsigned mismatch
+  Client_00.vcxproj -> C:\Users\Admin\Documents\Core store\DoAn--MasterServer_FileServer_Client\Client_00\Debug\Client_00.exe
