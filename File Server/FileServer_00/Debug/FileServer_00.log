@@ -1,0 +1,27 @@
+﻿  func.cpp
+C:\Users\Admin\Documents\Core store\DoAn--MasterServer_FileServer_Client\FileServer_00\FileServer_00\func.cpp(40,1): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winsock2.h(1831): message : see declaration of 'inet_addr'
+C:\Users\Admin\Documents\Core store\DoAn--MasterServer_FileServer_Client\FileServer_00\FileServer_00\func.cpp(100,1): warning C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winsock2.h(2219): message : see declaration of 'gethostbyname'
+C:\Users\Admin\Documents\Core store\DoAn--MasterServer_FileServer_Client\FileServer_00\FileServer_00\func.cpp(104,1): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winsock2.h(1849): message : see declaration of 'inet_ntoa'
+C:\Users\Admin\Documents\Core store\DoAn--MasterServer_FileServer_Client\FileServer_00\FileServer_00\func.cpp(119,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Documents\Core store\DoAn--MasterServer_FileServer_Client\FileServer_00\FileServer_00\func.cpp(176,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Documents\Core store\DoAn--MasterServer_FileServer_Client\FileServer_00\FileServer_00\func.cpp(199,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Documents\Core store\DoAn--MasterServer_FileServer_Client\FileServer_00\FileServer_00\func.cpp(227,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Documents\Core store\DoAn--MasterServer_FileServer_Client\FileServer_00\FileServer_00\func.cpp(241,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Documents\Core store\DoAn--MasterServer_FileServer_Client\FileServer_00\FileServer_00\func.cpp(267,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Documents\Core store\DoAn--MasterServer_FileServer_Client\FileServer_00\FileServer_00\func.cpp(284,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Documents\Core store\DoAn--MasterServer_FileServer_Client\FileServer_00\FileServer_00\func.cpp(324,33): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Documents\Core store\DoAn--MasterServer_FileServer_Client\FileServer_00\FileServer_00\func.cpp(346,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Users\Admin\Documents\Core store\DoAn--MasterServer_FileServer_Client\FileServer_00\FileServer_00\func.cpp(372,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Documents\Core store\DoAn--MasterServer_FileServer_Client\FileServer_00\FileServer_00\func.cpp(375,46): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Documents\Core store\DoAn--MasterServer_FileServer_Client\FileServer_00\FileServer_00\func.cpp(398,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Users\Admin\Documents\Core store\DoAn--MasterServer_FileServer_Client\FileServer_00\FileServer_00\func.cpp(505,1): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winsock2.h(1831): message : see declaration of 'inet_addr'
+C:\Users\Admin\Documents\Core store\DoAn--MasterServer_FileServer_Client\FileServer_00\FileServer_00\func.cpp(607,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Documents\Core store\DoAn--MasterServer_FileServer_Client\FileServer_00\FileServer_00\func.cpp(643,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Documents\Core store\DoAn--MasterServer_FileServer_Client\FileServer_00\FileServer_00\func.cpp(642,7): warning C4101: 'j': unreferenced local variable
+  FileServer_00.vcxproj -> C:\Users\Admin\Documents\Core store\DoAn--MasterServer_FileServer_Client\FileServer_00\Debug\FileServer_00.exe

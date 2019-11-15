@@ -1,0 +1,4 @@
+﻿  Source.cpp
+E:\HOC TAP\NAM 3\MANG MAY TINH NANG CAO\FileServer_00\FileServer_00\Source.cpp(7,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+E:\HOC TAP\NAM 3\MANG MAY TINH NANG CAO\FileServer_00\FileServer_00\Source.cpp(63,42): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  FileServer_00.vcxproj -> E:\HOC TAP\NAM 3\MANG MAY TINH NANG CAO\FileServer_00\x64\Debug\FileServer_00.exe
