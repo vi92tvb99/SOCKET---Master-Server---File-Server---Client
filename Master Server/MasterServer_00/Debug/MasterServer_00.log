@@ -1,0 +1,10 @@
+﻿  function.cpp
+C:\Users\Admin\Documents\Core store\DoAn--MasterServer_FileServer_Client\MasterServer_00\MasterServer_00\function.cpp(14,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Users\Admin\Documents\Core store\DoAn--MasterServer_FileServer_Client\MasterServer_00\MasterServer_00\function.cpp(56,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Documents\Core store\DoAn--MasterServer_FileServer_Client\MasterServer_00\MasterServer_00\function.cpp(88,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Documents\Core store\DoAn--MasterServer_FileServer_Client\MasterServer_00\MasterServer_00\function.cpp(251,1): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WinSock2.h(1831): message : see declaration of 'inet_addr'
+C:\Users\Admin\Documents\Core store\DoAn--MasterServer_FileServer_Client\MasterServer_00\MasterServer_00\function.cpp(398,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+  MasterServer_00.vcxproj -> C:\Users\Admin\Documents\Core store\DoAn--MasterServer_FileServer_Client\MasterServer_00\Debug\MasterServer_00.exe

@@ -1,0 +1,4 @@
+﻿  function.cpp
+E:\HOC TAP\NAM 3\MANG MAY TINH NANG CAO\MasterServer_00\MasterServer_00\function.cpp(97,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\HOC TAP\NAM 3\MANG MAY TINH NANG CAO\MasterServer_00\MasterServer_00\function.cpp(210,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  MasterServer_00.vcxproj -> E:\HOC TAP\NAM 3\MANG MAY TINH NANG CAO\MasterServer_00\x64\Debug\MasterServer_00.exe
